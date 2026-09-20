@@ -1,0 +1,7 @@
+
+Airbnb ETL Pipeline Summary
+
+Total Listings : 48895
+Average Price  : 152.72
+Maximum Price  : 10000
+Minimum Price  : 0
